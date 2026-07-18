@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: FYP_FinalReferLib
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 5013000474548242483
+  m_GuidHigh: 12303715403285927299
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4995575299034488985
+      m_GuidHigh: 4029313677001413558
+    m_SerializedTextureGuid:
+      m_GuidLow: 16952857009743615189
+      m_GuidHigh: 18142160510220786600
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: ai_Megamen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5303855140883336550
+      m_GuidHigh: 4001583318401426097
+    m_SerializedTextureGuid:
+      m_GuidLow: 9949853392610019342
+      m_GuidHigh: 16595842012188255194
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: bitm_Megamen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4823173054409392981
+      m_GuidHigh: 7582337552845080252
+    m_SerializedTextureGuid:
+      m_GuidLow: 3518638192316208820
+      m_GuidHigh: 12958524696771717465
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: faix_Megamen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4637406909884790438
+      m_GuidHigh: 6502863508535094446
+    m_SerializedTextureGuid:
+      m_GuidLow: 1780171499934814029
+      m_GuidHigh: 8420691154582176889
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: misi_Visi_Teacher
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5443123724565297472
+      m_GuidHigh: 14607873649560095415
+    m_SerializedTextureGuid:
+      m_GuidLow: 3149368458042486025
+      m_GuidHigh: 10003165937764475640
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: m_FTMK_Teacher
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5029249266932881632
+      m_GuidHigh: 15659142180184208516
+    m_SerializedTextureGuid:
+      m_GuidLow: 3959957918818739235
+      m_GuidHigh: 106266863489111915
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: security_Megamen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5711933241075357675
+      m_GuidHigh: 11452348427083603112
+    m_SerializedTextureGuid:
+      m_GuidLow: 17110430781037179891
+      m_GuidHigh: 453975251517067419
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: plan_Teacher
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5327022048930071853
+      m_GuidHigh: 8828298735706081442
+    m_SerializedTextureGuid:
+      m_GuidLow: 12260182092199254321
+      m_GuidHigh: 10563161787930520809
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: ftmk_Teacher
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4974202357032121676
+      m_GuidHigh: 15928449683622597037
+    m_SerializedTextureGuid:
+      m_GuidLow: 9332862168471408149
+      m_GuidHigh: 11462563957446975690
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: elevator_Haro
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5174125430837180008
+      m_GuidHigh: 11807480391274514597
+    m_SerializedTextureGuid:
+      m_GuidLow: 15827001424609896433
+      m_GuidHigh: 11161599678389796347
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: smoke_Haro
+    m_Texture: {fileID: 0}
