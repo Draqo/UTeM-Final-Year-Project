@@ -115,49 +115,49 @@ public class ARManager : MonoBehaviour
         switch (imageName)
         {
             case "ftmk_Teacher":
-                spawned.transform.localScale = new Vector3(0.1f, 0.1f, 0.1f);
+                spawned.transform.localScale = new Vector3(0.2f, 0.2f, 0.2f);
                 spawned.transform.localRotation = new Quaternion(0, -135, 0, 1);
                 spawned.transform.localPosition = new Vector3(0f, 0f, 0.24f);
                 break;
             case "plan_Teacher":
-                spawned.transform.localScale = new Vector3(0.1f, 0.1f, 0.1f);
+                spawned.transform.localScale = new Vector3(0.2f, 0.2f, 0.2f);
                 spawned.transform.localRotation = new Quaternion(0, -115, 0, 1);
                 spawned.transform.localPosition = new Vector3(0f, 0f, 0.24f);
                 break;
             case "misi_Visi_Teacher":
-                spawned.transform.localScale = new Vector3(0.1f, 0.1f, 0.1f);
+                spawned.transform.localScale = new Vector3(0.2f, 0.2f, 0.2f);
                 spawned.transform.localRotation = new Quaternion(0, 180, 0, 1);
                 spawned.transform.localPosition = new Vector3(0.05f, 0f, 0.24f);
                 break;
             case "m_FTMK_Teacher":
-                spawned.transform.localScale = new Vector3(0.1f, 0.1f, 0.1f);
+                spawned.transform.localScale = new Vector3(0.2f, 0.2f, 0.2f);
                 spawned.transform.localRotation = new Quaternion(0, 180, 0, 1);
                 spawned.transform.localPosition = new Vector3(0.05f, 0f, 0.24f);
                 break;
             case "elevator_Haro":
-                spawned.transform.localScale = new Vector3(0.01f, 0.01f, 0.01f);
+                spawned.transform.localScale = new Vector3(0.02f, 0.02f, 0.02f);
                 spawned.transform.localRotation = Quaternion.Euler(-90, 180, 0);
                 spawned.transform.localPosition = new Vector3(0.15f, 0.1f, 0.24f);
                 break;
             case "smoke_Haro":
-                spawned.transform.localScale = new Vector3(0.01f, 0.01f, 0.01f);
+                spawned.transform.localScale = new Vector3(0.02f, 0.02f, 0.02f);
                 spawned.transform.localRotation = Quaternion.Euler(-90, 180, 0);
                 spawned.transform.localPosition = new Vector3(0.15f, 0.1f, 0.24f);
                 break;
             case "faix_Megamen":
-                spawned.transform.localScale = new Vector3(0.1f, 0.1f, 0.1f);
+                spawned.transform.localScale = new Vector3(0.2f, 0.2f, 0.2f);
                 spawned.transform.localPosition = new Vector3(0f, 0f, 0.24f);
                 break;
             case "bitm_Megamen":
-                spawned.transform.localScale = new Vector3(0.1f, 0.1f, 0.1f);
+                spawned.transform.localScale = new Vector3(0.2f, 0.2f, 0.2f);
                 spawned.transform.localPosition = new Vector3(0f, 0f, 0.24f);
                 break;
             case "security_Megamen":
-                spawned.transform.localScale = new Vector3(0.1f, 0.1f, 0.1f);
+                spawned.transform.localScale = new Vector3(0.2f, 0.2f, 0.2f);
                 spawned.transform.localPosition = new Vector3(0f, 0f, 0.24f);
                 break;
             case "ai_Megamen":
-                spawned.transform.localScale = new Vector3(0.1f, 0.1f, 0.1f);
+                spawned.transform.localScale = new Vector3(0.2f, 0.2f, 0.2f);
                 spawned.transform.localPosition = new Vector3(0f, 0f, 0.24f);
                 break;
             default:

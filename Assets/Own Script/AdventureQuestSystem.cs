@@ -37,6 +37,11 @@ public class AdventureQuestSystem : MonoBehaviour
 
     private Dictionary<string, int> scannedLocations = new Dictionary<string, int>();
 
+    public bool IsLocationScanned(string location)
+    {
+        return scannedLocations.ContainsKey(location);
+    }
+
     void Start()
     {
         InitializeQuests();
@@ -244,9 +249,10 @@ public class AdventureQuestSystem : MonoBehaviour
         return null;
     }
 
-    Quest GetCurrentQuest()
+    public Quest GetCurrentQuest()
     {
-        foreach (Quest quest in quests) if (!quest.isCompleted) return quest;
+        foreach (Quest quest in quests) 
+            if (!quest.isCompleted) return quest;
         return null;
     }
 
